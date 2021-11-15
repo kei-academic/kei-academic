@@ -21,15 +21,16 @@
   </a>
 </p>
 
-<a align="left" src="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a align="left" href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kei-academic&theme=dracula" />
 </a>
 
 <div align="left">
-  <a src="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=kei-academic&show_icons=true&theme=tokyonight" />
   </a>
-  <a src="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei-academic&langs_count=8&layout=compact&theme=react" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei-academic&langs_count=8&layout=compact&theme=tokyonight" />
   </a>
 </div>
