@@ -25,15 +25,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kei-academic&theme=dracula" />
 </a>
 
-<table align="left">
-  <td>
-    <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=kei-academic&show_icons=true&theme=tokyonight" />
-    </a>
-  </td>
-  <td>
-    <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei-academic&langs_count=8&layout=compact&theme=react" />
-    </a>
-  </td>
-</table>
+<div align="left">
+  <a src="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kei-academic&show_icons=true&theme=tokyonight" />
+  </a>
+  <a src="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei-academic&langs_count=8&layout=compact&theme=react" />
+  </a>
+</div>
