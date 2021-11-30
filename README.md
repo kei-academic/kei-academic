@@ -44,5 +44,5 @@
 </div>
 
 <!-- GitHub Profile Trophy -->
-<a align="left" href="https://github.com/ryo-ma/github-profile-trophy#apply-theme">
+<a align="left" href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=kei-academic&theme=algolia">
