@@ -6,8 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=kei-academic" />
   </a>
   <!-- Twitter followers -->
-  <a href="http://twitter.com/kei11235813">
-    <img height="20" src="https://img.shields.io/twitter/follow/kei11235813?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/kei_university">
+    <img height="20" src="https://img.shields.io/twitter/follow/kei_university?label=Twitter&logo=twitter&style=flat" />
   </a>
   <!-- Youtube followers -->
   <a href="https://www.youtube.com/channel/UC7l6QQIAgRWyrKJpYy-9vCg">
